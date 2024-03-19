@@ -1,0 +1,85 @@
+.mybody{
+    background-color:rgb(238, 238, 238);
+}
+
+
+
+.container{
+    width: 100%;
+    height: auto;
+    margin: 0; padding: 0;
+}
+
+.row{
+    padding: 10%;
+    padding-bottom: 0;
+}
+
+.erpcol{
+    background-color:white;
+    /* padding: 20px; */
+}
+
+.erpdiv{
+    display: block;
+    justify-content: space-between;
+    /* padding: 20%; 
+    padding-right: 0; */
+    /* background: rgba(0, 128, 0, 0.4); */
+    /* border: 5px double black; */
+    margin: 0;
+
+}
+
+#erpimg{
+    height: 100%;
+    width: 100%;
+    /* margin-left: 80px; */
+    
+    /* display: flex;
+    justify-content: center; */
+ 
+}
+
+.erpdivtext{
+    padding: 30px;
+}
+
+#erph2{
+    font-weight: 700;
+    font-size: 38px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#erph4{
+    color: gray;
+    font-weight: 400;
+    font-size: 16px;
+    /* justify-content: space-between; */
+    line-height: 22px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#erpimgcol{
+    /* height: 280px;
+    width: 600px; */
+    height: 100%;
+    width: 80%;
+
+}
+
+h3{
+    padding-top: 20px;
+}
+
+p{
+    
+    line-height: 22px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: gray;
+    
+}
+
+h4{
+    /* text-align: justify; */
+}
